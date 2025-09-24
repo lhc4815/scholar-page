@@ -27,7 +27,7 @@ export default function Hero() {
       <div className="relative z-10 max-w-6xl mx-auto px-4 text-center text-white">
         <h1 className="text-4xl md:text-6xl font-extrabold mb-6 leading-tight">
           입시 전문가 집단<br />
-          <span className="text-blue-400">스콜라시프트</span>
+          <span className="text-yellow-300">스콜라시프트</span>
         </h1>
         
         <p className="text-xl md:text-2xl mb-8 max-w-3xl mx-auto leading-relaxed">
@@ -58,15 +58,15 @@ export default function Hero() {
 
         <div className="mt-12 grid grid-cols-1 md:grid-cols-3 gap-8 max-w-4xl mx-auto">
           <div className="text-center">
-            <div className="text-3xl font-bold text-blue-400 mb-2">4인</div>
+            <div className="text-3xl font-bold text-yellow-300 mb-2">4인</div>
             <div className="text-lg">전문 컨설턴트</div>
           </div>
           <div className="text-center">
-            <div className="text-3xl font-bold text-blue-400 mb-2">9가지</div>
+            <div className="text-3xl font-bold text-yellow-300 mb-2">9가지</div>
             <div className="text-lg">전문 프로그램</div>
           </div>
           <div className="text-center">
-            <div className="text-3xl font-bold text-blue-400 mb-2">1:1</div>
+            <div className="text-3xl font-bold text-yellow-300 mb-2">1:1</div>
             <div className="text-lg">맞춤형 컨설팅</div>
           </div>
         </div>
